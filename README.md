@@ -1,3 +1,3 @@
 # git-commands
 
-Repo to share an example of command git commands
+Repositorio de comandos útiles de Git

@@ -1,3 +1,3 @@
 ## Merge
 
-Combina cambios de dos ramas
+Combina cambios de dos ramas.

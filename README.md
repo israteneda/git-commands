@@ -7,3 +7,4 @@ Comandos para el dia a dia del trabajo:
 - merge
 - stash
 - status
+- rebase

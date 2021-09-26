@@ -10,4 +10,3 @@ Comandos para el dia a dia del trabajo:
 - log
 
 Ademas puedes revisar estos comandos en https://israteneda.com/
-Revisa el video en Youtube

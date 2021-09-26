@@ -7,5 +7,6 @@ Comandos para el dia a dia del trabajo:
 - merge
 - stash
 - status
-- rebase
 - log
+
+Ademas puedes revisar estos comandos en https://israteneda.com/

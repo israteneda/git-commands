@@ -8,3 +8,4 @@ Comandos para el dia a dia del trabajo:
 - stash
 - status
 - rebase
+- log
